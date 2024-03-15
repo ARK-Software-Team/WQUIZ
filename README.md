@@ -64,3 +64,4 @@ Or if there are problems with the page even though you do not receive any errors
 
 Copyright © 2024 [Batuhan Arık](https://github.com/BatuhanARK).  
 This project is [MIT](https://github.com/BatuhanARK/WQUIZ./blob/main/LICENSE.txt) licensed.
+  
