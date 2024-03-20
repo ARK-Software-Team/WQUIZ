@@ -75,7 +75,7 @@ document.addEventListener("click", function (event) {
 });
 // seletcs all text elements
 document.addEventListener("selectionchange", () => {
-    var selectedText = window.getSelection().toString();
+    const selectedText = window.getSelection().toString();
     if (selectedText) {
         document.body.classList.add("text-selected");
     } else {
