@@ -16,28 +16,19 @@ WQUIZ, measures your English-Turkish vocabulary. While doing this, it also analy
 
 ## ✨ Visuals
 
-*will be added in the future*
+![](https://github.com/BatuhanARK/GIF/blob/main/MidQG%C4%B0f.gif)
+![](https://github.com/BatuhanARK/GIF/blob/main/ShortQGif.gif)
 
 ## ⚡ Installation
 
 ```python
-  open the folder with VSCODE
-  download 'Live Server' extension
-  open 'main.html'
-  right click anywhere in 'main.html'
-  select the 'Open with Live Server' option
+  double click 'main.html'
 ```
 
 ## 🚀 Usage
 
-❕ Use Firefox for best performance.  
-❗ It keeps the data in local storage, so before running it, you must give permission to use local storage to the site from the browser you use.  
-❕ Make sure you have granted full authorization. To check on the page:
-```bash
-  [right click->inspect->application->local storage]
-  (check if there is a key named 'userExamData'.)
-  (if they are there, it means it is working properly.) 
-```
+❕ Use Firefox for best performance.    
+❗ Make sure you have granted full authorization.    
 🔍 If you think it is not working properly, you can check the error code on the console. To check on the page:
 ```bash
   [right click->inspect->console]
